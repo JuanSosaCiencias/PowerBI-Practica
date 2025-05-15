@@ -7,6 +7,15 @@
 
 ---
 
+## Resultados
+#### Dashboard del Microsoft Learn
+![Dashboard MS](Imgs/MS.png)
+
+#### Ultima practica de Alex
+![Ejemplo de la última práctica de Alex](Imgs/Visualizations.jpeg)
+
+---
+
 ## 📁 Estructura del repositorio
 
 ```plain
@@ -21,14 +30,7 @@
     ├── Financial Sample.xlsx     # Libro de Excel de ejemplo
     └── TutorialMS.pbix           # Reporte final en Power BI Desktop
 ```
-
 [esto esta chido]: <> (> **Nota:** Cada carpeta incluye un archivo `README.md` interno con instrucciones específicas y capturas de pantalla.)
-
----
-
-## Ultima practica de Alex
-
-![Ejemplo de la última práctica de Alex](Imgs/Visualizations.jpeg)
 
 ---
 
