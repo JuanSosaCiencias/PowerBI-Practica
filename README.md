@@ -11,6 +11,7 @@
 
 ```plain
 ├── Readme.md
+├── Imgs                          # SS de la penultima practica y el proyecto
 ├── Alex                          # Tutorial Alex The Analyst
 │   ├── Data-Excel                # Libros de Excel usados en cada práctica
 │   ├── Dashboards-VisualDataFmt  # Visualizaciones y formateo paso a paso
