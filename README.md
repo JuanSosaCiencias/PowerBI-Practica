@@ -9,7 +9,7 @@
 
 ## Resultados
 #### Dashboard del Learn Power BI
-![Dashboard MS](Imgs/Proyecto.pdf)
+![Dashboard MS](Imgs/Proyecto.jpg)
 
 #### Dashboard del Microsoft Learn
 ![Dashboard MS](Imgs/MS.png)
