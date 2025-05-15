@@ -2,7 +2,7 @@
 
 ¡Bienvenido! Este repositorio contiene ejercicios y proyectos realizados con Power BI Desktop, siguiendo dos tutoriales:
 
-* **Alex The Analyst**: [Learn Power BI](https://youtu.be/I0vQ_VLZTWg?si=5PVxFnM5pV4uYYsf)
+* **Alex The Analyst**: [Learn Power BI](https://youtu.be/I0vQ_VLZTWg?si=5PVxFnM5pV4uYYsf) 
 * **Microsoft Learn**: [From Excel to Stunning Report in Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-excel-stunning-report)
 
 ---
@@ -25,6 +25,13 @@
 [esto esta chido]: <> (> **Nota:** Cada carpeta incluye un archivo `README.md` interno con instrucciones específicas y capturas de pantalla.)
 
 ---
+
+## Ultima practica de Alex
+
+![Ejemplo de la última práctica de Alex](Imgs/Visualizations.jpeg)
+
+---
+
 
 ## 🚀 Cómo empezar
 
